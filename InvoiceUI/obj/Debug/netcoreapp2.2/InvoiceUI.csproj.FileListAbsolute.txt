@@ -1,0 +1,14 @@
+c:\Skole\H3\Test Driven Development\InvoiceUI\bin\Debug\netcoreapp2.2\InvoiceUI.deps.json
+c:\Skole\H3\Test Driven Development\InvoiceUI\bin\Debug\netcoreapp2.2\InvoiceUI.runtimeconfig.json
+c:\Skole\H3\Test Driven Development\InvoiceUI\bin\Debug\netcoreapp2.2\InvoiceUI.runtimeconfig.dev.json
+c:\Skole\H3\Test Driven Development\InvoiceUI\bin\Debug\netcoreapp2.2\InvoiceUI.dll
+c:\Skole\H3\Test Driven Development\InvoiceUI\bin\Debug\netcoreapp2.2\InvoiceUI.pdb
+c:\Skole\H3\Test Driven Development\InvoiceUI\bin\Debug\netcoreapp2.2\InvoiceService.dll
+c:\Skole\H3\Test Driven Development\InvoiceUI\bin\Debug\netcoreapp2.2\InvoiceService.pdb
+c:\Skole\H3\Test Driven Development\InvoiceUI\obj\Debug\netcoreapp2.2\InvoiceUI.csprojAssemblyReference.cache
+c:\Skole\H3\Test Driven Development\InvoiceUI\obj\Debug\netcoreapp2.2\InvoiceUI.csproj.CoreCompileInputs.cache
+c:\Skole\H3\Test Driven Development\InvoiceUI\obj\Debug\netcoreapp2.2\InvoiceUI.AssemblyInfoInputs.cache
+c:\Skole\H3\Test Driven Development\InvoiceUI\obj\Debug\netcoreapp2.2\InvoiceUI.AssemblyInfo.cs
+c:\Skole\H3\Test Driven Development\InvoiceUI\obj\Debug\netcoreapp2.2\InvoiceUI.csproj.CopyComplete
+c:\Skole\H3\Test Driven Development\InvoiceUI\obj\Debug\netcoreapp2.2\InvoiceUI.dll
+c:\Skole\H3\Test Driven Development\InvoiceUI\obj\Debug\netcoreapp2.2\InvoiceUI.pdb

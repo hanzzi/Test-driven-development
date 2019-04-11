@@ -1,0 +1,9 @@
+c:\Skole\H3\Test Driven Development\InvoiceService\bin\Debug\netstandard2.0\InvoiceService.deps.json
+c:\Skole\H3\Test Driven Development\InvoiceService\bin\Debug\netstandard2.0\InvoiceService.dll
+c:\Skole\H3\Test Driven Development\InvoiceService\bin\Debug\netstandard2.0\InvoiceService.pdb
+c:\Skole\H3\Test Driven Development\InvoiceService\obj\Debug\netstandard2.0\InvoiceService.csprojAssemblyReference.cache
+c:\Skole\H3\Test Driven Development\InvoiceService\obj\Debug\netstandard2.0\InvoiceService.csproj.CoreCompileInputs.cache
+c:\Skole\H3\Test Driven Development\InvoiceService\obj\Debug\netstandard2.0\InvoiceService.AssemblyInfoInputs.cache
+c:\Skole\H3\Test Driven Development\InvoiceService\obj\Debug\netstandard2.0\InvoiceService.AssemblyInfo.cs
+c:\Skole\H3\Test Driven Development\InvoiceService\obj\Debug\netstandard2.0\InvoiceService.dll
+c:\Skole\H3\Test Driven Development\InvoiceService\obj\Debug\netstandard2.0\InvoiceService.pdb
